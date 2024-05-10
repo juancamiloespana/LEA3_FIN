@@ -16,3 +16,4 @@ Data Description:
 - NumberOfTimesPastDue: The number of times the individual has been past due.
 - NumberOfCreditLines: The number of credit lines the individual has.
 - AmountToPay: The amount of money the individual needs to pay interests included.
+- NewLoanApplication: Amount of money the costumer has requested to the institution.
